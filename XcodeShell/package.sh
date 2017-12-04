@@ -4,12 +4,6 @@ export HFScheme="release"
 export HFSdk="iphoneos"
 export HFConfiguration="Debug"
 
-# if [[ $0==r ]]; then
-# 	export HFConfiguration="Release"
-# else
-#   export HFConfiguration="Debug"
-# fi
-
 cd /Users/chenmenglou/Desktop/XcodeShell
 
 rm  -rf ./ipa/*
