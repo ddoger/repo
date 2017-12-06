@@ -40,3 +40,4 @@ unset HFConfiguration
 #  alias hfpackage="/Users/chenmenglou/Desktop/XcodeShell/package.sh"
 #使配置生效
 #  source ~/.bashrc
+#
