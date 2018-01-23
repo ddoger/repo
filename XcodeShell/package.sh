@@ -3,6 +3,7 @@ export HFWorkspacePath="/Users/chenmenglou/Desktop/NewSvn/ehuodiOwneriPhone/bran
 export HFScheme="release"
 export HFSdk="iphoneos"
 export HFConfiguration="Debug"
+export HFPlist="./appsj.plist"
 
 cd /Users/chenmenglou/Desktop/XcodeShell
 
@@ -25,6 +26,7 @@ unset HFWorkspacePath
 unset HFScheme
 unset HFSdk
 unset HFConfiguration
+unset HFPlist
 
 #配置别名（alias）--对自己有效
 #  sudo vim ~/.bashrc 

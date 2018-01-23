@@ -1,3 +1,3 @@
 #!/bin/bash
-xcodebuild -exportArchive -archivePath ./archive/app.xcarchive -exportPath ./ipa/ -exportOptionsPlist ./app.plist
+xcodebuild -exportArchive -archivePath ./archive/app.xcarchive -exportPath ./ipa/ -exportOptionsPlist $HFPlist -allowProvisioningUpdates
 
