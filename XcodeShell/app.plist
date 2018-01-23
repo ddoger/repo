@@ -6,6 +6,13 @@
     <string>yourTeamID</string>
     <key>method</key>
     <string>development</string>
+
+    <key>provisioningProfiles</key>
+	<dict>
+		<key>填写bundleid</key>
+		<string>填写描述文件名称</string>
+	</dict> 
+
 </dict>
 </plist>
 <!-- 导出ipa包类型:[app-store, ad-hoc, package, enterprise, development, developer-id] -->
